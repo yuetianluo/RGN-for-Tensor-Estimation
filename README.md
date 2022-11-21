@@ -1,3 +1,5 @@
+# Instruction
+
 Here we include Matlab and R codes for paper "Low-rank Tensor Estimation via Riemannian Gauss-Newton: Statistical Optimality and Second-Order Convergence
 " by Yuetian Luo and Anru R. Zhang (https://arxiv.org/abs/2104.12031). See README.md for the instruction.
 
